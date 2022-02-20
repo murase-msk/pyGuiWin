@@ -1,0 +1,3 @@
+
+# pySimpleGUI windowオブジェクト
+win = None

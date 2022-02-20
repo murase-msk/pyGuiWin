@@ -1,0 +1,22 @@
+# python 3.10.1 32bit
+
+# コードフォーマッタ
+autopep8==1.6.0
+
+# 静的解析ツール
+flake8==4.0.1
+
+# exe化
+pyinstaller==4.8
+
+# GUIアプリ作成
+PySimpleGUI==4.56.0
+
+# pythonでWin32を扱う (excel,access,outlookなどを使う)
+pywin32==303
+
+# accessDB接続用API
+#adodbapi==2.6.2.0
+
+# 定期実行
+schedule==1.1.0
